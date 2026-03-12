@@ -12,4 +12,4 @@ Espero aprender a melhorar, não só como aluna, mas como pessoa. Quero ter uma 
 - Python e Redes de segurança
 
 ## 💬 Minha frase sobre trabalho em equipe
-"Juntos chegamos longe!!!"
+"Juntos chegamos longe!!"
