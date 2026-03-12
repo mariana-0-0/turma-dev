@@ -1,8 +1,9 @@
 # 👤 Perfil: Luani Julia Nogueira de Lima
 
-**Função no projeto:** [Admin / Developer / Reviewer / Observador]
+**Função no projeto:** Developer
+**Avatar:** 🧑‍💻
 **Turma:** Técnico em Desenvolvimento de Sistemas
-**Data de entrada:** [escreva a data de hoje, ex: 11/03/2026]
+**Data de entrada:** 12/03/2026
 
 ## 🎯 O que quero aprender neste curso
 Espero aprender a melhorar, não só como aluna, mas como pessoa. Quero ter uma boa vida.
